@@ -18,7 +18,7 @@ lancer le seed
     rails db:seed
     ```
 
-On a rajouté la gem time_print si tu veux voir des beaux tableaux et la gem faker pour générer le seed plus facilement
+Il y a la gem time_print si tu veux voir des beaux tableaux et la gem faker pour générer le seed plus facilement
 
 Il y a des chiens, des dogsitters et des promendes qui se font bien si le chien et le promeneur ont la meme ville
 
