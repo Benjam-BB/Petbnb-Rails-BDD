@@ -5,12 +5,14 @@
 Petbnb est une application rails.
 
 __step 1__
+
 faites le 
     ```
     bundle install
     ```
 
 __step 2__
+
 lancer le seed 
     ```
     rails db:seed
